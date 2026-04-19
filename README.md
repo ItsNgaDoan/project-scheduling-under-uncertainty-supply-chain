@@ -74,6 +74,7 @@ This project was completed as part of a team-based case study. I contributed to:
 
 ## Files
 
-- [Case Brief](./skytrack-case-brief.pdf) — project scenario  
+- [Case Brief](./skytrack-case-brief.pdf) — project scenario
+- [Requirements](./skytrack-analysis-requirements.pdf) — problem definition   
 - [Analysis Report](./skytrack-analysis-report.pdf) — full analysis and results  
-- [Requirements](./skytrack-analysis-requirements.pdf) — problem definition  
+
