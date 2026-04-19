@@ -1,13 +1,13 @@
 # Project Scheduling Under Uncertainty (SkyTrack)
 
-> Case study on project scheduling under uncertainty using PERT, critical path analysis, and cost–time trade-offs.
-
 
 ## Overview
 
 This project evaluates whether a drone product launch can meet a **90-day deadline** under uncertain task durations.
 
-Using probabilistic modelling and scenario analysis, the goal was to assess feasibility and identify the most effective execution strategy.
+Set in a **supply chain context**, the analysis involves supplier coordination, inventory planning, and distribution strategy for launching the SkyTrack drone.
+
+Using probabilistic modelling and scenario analysis, the project assesses feasibility and identifies the most effective execution strategy.
 
 
 ## Problem Context
