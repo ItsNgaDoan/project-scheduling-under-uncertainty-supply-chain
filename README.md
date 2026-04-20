@@ -78,3 +78,8 @@ This project was completed as part of a team-based case study. I contributed to:
 - [Requirements](./skytrack-analysis-requirements.pdf) — problem definition   
 - [Analysis Report](./skytrack-analysis-report.pdf) — full analysis and results  
 
+
+## Academic Use Notice
+
+This project was completed as part of a group assignment at the University of Auckland and is shared for educational and portfolio purposes only.
+The work presented reflects collaborative academic effort. Unauthorised use, reproduction, or redistribution may violate academic integrity policies.
